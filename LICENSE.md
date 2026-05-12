@@ -1,4 +1,4 @@
-#  
+#  Enhance Asana for macOS with Asana for macOS premium Extension: collaboration & tags, the #1 extension. Includes collaboration and tags for a smoother experience.
 
 
 
